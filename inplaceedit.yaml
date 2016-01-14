@@ -1,0 +1,5 @@
+name: inplaceedit
+desc: Basic in-place editing plugin
+author: Alexey Tikhonov
+version: 0.5
+default_priority: 100
